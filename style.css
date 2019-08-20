@@ -27,16 +27,16 @@ body, html {
     
 }
 .tag{
-    font-style: ;
-    font-size: 30px;
+    
+    font-size: 25px;
 }
 .translation{
     font-style: oblique;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 .meaning{
     font-style: oblique;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
