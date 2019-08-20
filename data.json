@@ -1,0 +1,254 @@
+data = [
+	{
+		
+		"proverb": "Ile oba t'o jo, ewa lo busi",
+		"translation": "When a king's palace burns down, the re-built palace is more beautiful",
+		"meaning": "Necessity is mother of invention, creativity is often achieved after overcoming many difficulties"
+	},
+	{
+		
+		"proverb": "Gbogbo alangba lo d'anu dele, a ko mo eyi t'inu nrun",
+		"translation": "All lizards lie flat on their stomach and it is difficult to determine which has a stomach ache",
+		"meaning": "Everyone looks the same on the outside but everyone has problems that are invisible to outsiders"
+	},
+	{
+		"proverb": "Ile la ti n ko eso re ode",
+		"translation": "Charity begins at Home",
+		"meaning": "A man cannot give what he does not have good or bad behavior is a reflection of one’s background"
+	},
+	{
+		"proverb": "A pę ko to jęun, ki ję ibaję",
+		"translation": "The person that eats late, will not eat spoiled food",
+		"meaning": "It is more profitable to exercise patience while seeking a durable solution, in difficult situations than to hastily accept an ill-conceived/prepared solution"
+	},
+	{
+		"proverb": "Eewu bę loko Longę, Longę fun ara rę eewu ni",
+		"translation": " If there is danger at Longę's farm (Longę is a name of a Yoruba Legend), then Longę himself is danger",
+		"meaning": "You should be extremely careful of situations that have a past history of danger"
+	},
+	{
+		"proverb": "Bi Ēēgun nla ba ni ohùn o ri gontò, gontò na a ni ohùn o ri Ēēgun nla",
+		"translation": "If a big masquerade claims it doesn't see the smaller masquerade, the small masquerade will also claim it doesn't see the big masquerade",
+		"meaning": "If an important man does not respect those less important than himself, less important men will in turn refuse to give him his due"
+	},
+	{
+		"proverb": "Kò sí ęni tí ó ma gùn ęşin tí kò ní ju ìpàkó. Bí kò fę ju ìpàkó, ęşin tí ó ngùn á ję kojū",
+		"translation": " No one rides a horse without moving his head, voluntarily or involuntarily",
+		"meaning": "Your status in life dictates your attitude towards your peers"
+	},
+	{
+		"proverb": "Bí abá so òkò sójà ará ilé eni ní bá",
+		"translation": "He who throws a stone in the market will hit his relative",
+		"meaning": "Be careful what you do unto others it may return towards you or someone close to you"
+	},
+	{
+		"proverb": "Agba ki wa loja, ki ori omo titun o wo",
+		"translation": "Do not go crazy, do not let the new baby look",
+		"meaning": "Behave in a mature manner so as to a avoid bad reputation"
+	},
+	{
+		"proverb": "Adìẹ funfun kò mọ ara rẹ̀lágbà",
+		"translation": "The white chicken does not realize its age",
+		"meaning": "Learn to act your age and Respect yourself"
+	},
+	{
+		"proverb": "Ọbẹ̀ kìí gbé inú àgbà mì",
+		"translation": "The soup does not move round in an elder’s belly",
+		"meaning": "You should understand how to and the importance of keep secrets"
+	},
+	{
+		"proverb": "À ń pe gbẹ́nàgbẹ́nà ẹyẹ àkókó ń yọjú",
+		"translation": "A sculptor is summoned and the woodpecker shows up",
+		"meaning": "Never think too highly of yourself"
+	},
+	{
+		"proverb": "Díẹ̀ díẹ̀ nimú ẹlẹ́dẹ̀ẹ́ fi ń wọgbà",
+		"translation": "Little by little is how the pig’s nose enters the yard",
+		"meaning": "Attend to a small problem before it becomes uncontrollable"
+	},
+	{
+		"proverb": "Ilé ọba tójó ẹwà ló bùsi",
+		"translation": "The king’s palace that got burnt added beauty to it",
+		"meaning": "Every cloud has a silver lining"
+	},
+	{
+		"proverb": "A ti kekee e ti p’eitan u’oko i, do ba d’agba tan e i du ka ma",
+		"translation": "Trim the branches of an iroko tree while it is young, if it matures completely it cannot be bent again",
+		"meaning": " Training of a child commences when the child is still very young and impressionable; otherwise his training becomes late and an uphill task"
+	},
+	{
+		"proverb": "Uun yi wo ba a gbe oun wa ka i, we le gbe ila du o ka koko",
+		"translation": "What you plant, is what you will pluck, you cannot plant okro and you pluck cocoa",
+		"meaning": " Whatever you sow, that you will reap"
+	},
+	{
+		"proverb": "Ohun pele, o yo obi n’ apo; ohun lile yo uda n’ako",
+		"translation": "A gentle voice brings kola from the pocket while a harsh voice brings out a sword from its sheath",
+		"meaning": "The tongue is a two-edged sword"
+	},
+	{
+		"proverb": "A’a e e wowo di l’otu e m a le gbe un",
+		"translation": "No matter how heavy the body may be the owner will still be able to carry it",
+		"meaning": "Each individual must undertake his responsibilitie"
+	},
+	{
+		"proverb": "E e do da ma ja, sugbon aja i gb’uha o so o i",
+		"translation": "People cannot live together without quarrelling but reconciliation/settlement should be given a chance",
+		"meaning": "Emphasizes the importance of closeness of individuals to one another even when conflict exists between them"
+	},
+	{
+		"proverb": "Omi yi iay’a a mon e e san gb’onen e",
+		"translation": "The water one is destined to drink never flows past him or her",
+		"meaning": "God’s timing is always perfect"
+	},
+	{
+		"proverb": "Esin e e da onen da ma ton gun",
+		"translation": "The fact that the horse throws down the rider does not stop the rider from getting up and climbing it again",
+		"meaning": "Never give up"
+	},
+	{
+		"proverb": "Di l’ejo ba a ma ejo n’ebi e ni i pe n’oiho ukonle",
+		"translation": "If one acknowledges one’s guilt in court one will not remain on his knees for long",
+		"meaning": "If you own up to your guilt, you have tried to put things right and so may be pardoned or judged with leniency"
+	},
+	{
+		"proverb": "Li t’onen e e h’oi osan da m’aipan",
+		"translation": "One’s relation cannot be on the top of a cherry tree and one eats an unripe one",
+		"meaning": "Someone in an influential position should use his position for the benefit of his relation and community"
+	},
+	{
+		"proverb": "E e m’oiho Ade gwole",
+		"translation": "We not allow a head wearing a crown to drag on the ground",
+		"meaning": "This means that nobody disrespects a crowned individual"
+	},
+	{
+		"proverb": "Den a’a e n’awo yo gba e",
+		"translation": "Fry yourself in a pot that will conveniently contain you",
+		"meaning": "Cut your coat according to your size"
+	},
+	{
+		"proverb": "Ko omo e do le mu usimi ko e",
+		"translation": "Teach your child to give you rest",
+		"meaning": "Train your child so that he can give you peace of mind"
+	},
+	{
+		"proverb": "Onen ma nen a’e do fi ghon n’onen, uya a a je pa i",
+		"translation": "He who does not have himself but claims he has somebody’s support, suffer will kill him",
+		"meaning": "He who does not help himself but relies on others will suffer"
+	},
+	{
+		"proverb": "Aja e e j, ogungun ya gbe ko ghon o ‘on",
+		"translation": "A dog does not eat the bone, which is hung on its neck",
+		"meaning": " It is one’s responsibility to take care of whatever he is entrusted with"
+	},
+	{
+		"proverb": "Igbe ‘a ga o we s’ugwaju ipa’uun",
+		"translation": "It is lifting oneself up that goes before destruction",
+		"meaning": "Pride goes before a fall"
+	},
+	{
+		"proverb": "Ubee eese l’use, onen yo gbe jake oun o se l’use i",
+		"translation": "A good beginning is of no value unless one perseveres to the end",
+		"meaning": "He who perseveres to the end will be rewarded"
+	},
+	{
+		"proverb": "Li suu e fon wa’a keneun i",
+		"translation": "Only the patient one can milk a lion",
+		"meaning": "Patience is key, He who is patient can perform an impossible task"
+	},
+	{
+		"proverb": "Oj’ ole igbad’e gbo i",
+		"translation": "Corn matures in the presence of a lazy man",
+		"meaning": "If a man does not work, he must not eat"
+	},
+	{
+		"proverb": "Aja e e gbagbe l’oiye owuo",
+		"translation": "A dog does not forget its morning benefactor",
+		"meaning": "It is good to show appreciation for any good deed done to one"
+	},
+	{
+		"proverb": "Se s’ale oun e je Seike i",
+		"translation": "He who leaves a good legacy behind will be fondly remembered for his generosity",
+		"meaning": "Benevolence leaves a lasting impression"
+	},
+	{
+		"proverb": "Onen p’ aoko s’ oja oun oja p’ aoko si",
+		"translation": "He who sends a gift to the market, he it is that a market sends a gift to",
+		"meaning": "Anyone who gives will receive"
+	},
+	{
+		"proverb": "Igi so so o y’a a ghonen ‘ju, a to ke iye e ti ho i",
+		"translation": "The pointed stick that will pierce one in the eye, is avoided while it is still far off",
+		"meaning": "To be forewarned, is to be forearmed"
+	},
+	{
+		"proverb": "Uun yi agbalagba ri n’oiho joko, omoiton le ri un n’oiho uduo",
+		"translation": "What an elder sees while sitting down, a child can never see it while standing up",
+		"meaning": "Experience is the best teacher"
+	},
+	{
+		"proverb": "Die e je ma n’aja o siwin ku i",
+		"translation": " One eats a little of a dog that died as a result of rabies",
+		"meaning": "One should not over do things. There should be some restraint"
+	},
+	{
+		"proverb": "O so si ko du ka, o wo si ko du see",
+		"translation": "If the fruits of a tree grows where it cannot be plucked; it falls where it cannot be picked up",
+		"meaning": "The problem is enigmatic, defying solution"
+	},
+	{
+		"proverb": "Omi yi iay’ a mon ee san gb’onen ee",
+		"translation": "the water that one is destined to drink will never flow past one",
+		"meaning": "Whatever one is destined to become or achieve in life must come to pass"
+	},
+	{
+		"proverb": "Ijo je o we yon i",
+		"translation": "Eating together makes the exercise enjoyable",
+		"meaning": "There is joy in cooperative effort"
+	},
+	{
+		"proverb": "Iy’o wu mi e wue, oun e m’omaiye meji jeun ototo i",
+		"translation": "Differences in likes and dislikes make two brothers eat separately",
+		"meaning": "Every human being has special characteristics that make him unique"
+	},
+	{
+		"proverb": "Oju ya a b’onen t’ale e e m’owuo kutu s’ipen",
+		"translation": "The eye that will be useful to its owner does not start discharging in the morning",
+		"meaning": "The success of a venture requires early planning and preparedness"
+	},
+	{
+		"proverb": "Di ulu be e don panen panen, a ka jo ni melo melo",
+		"translation": "If a drum is sounding “kill him, kill him” one should dance to it with caution",
+		"meaning": "Avoid doing things that will have serious repercussion or effect"
+	},
+	{
+		"proverb": "D’iaye ba a s’oko s’oja, o le la a ba ia l’onen",
+		"translation": "If one throws a stone into the market it may hit his relative",
+		"meaning": "Avoid doing things that will have serious repercussion or effect"
+	},
+	{
+		"proverb": "Onen e n’oogun adoado ee gb’ ayinyan win",
+		"translation": "He who does not have an antidote for a disease called “adoado” should not swallow a cockroach",
+		"meaning": "One should avoid any thing or act that will have adverse effect on him/her"
+	},
+	
+	{
+		"proverb": "Oiho buuk’ e ka koolo bi s’upekun da le da ma",
+		"translation": "A man’s head with an evil mind does not curve like cutlass for one to know it",
+		"meaning": "Appearance can be deceptive"
+	},
+
+			
+  {
+		"proverb": "Ole yo ji kakaki oba, o ku boon ti a fon",
+		"translation": "The thief who steals the king’s trumpet will find it difficult to blow it anywhere without being discovered",
+		"meaning": "Nemesis will always catch up with a wrongdoer"
+		},
+		
+ {
+		"proverb": "Inon ukoko didun oun eko fifun ti jade i",
+		"translation": "White corn paste comes out of the black pot",
+		"meaning": "Do not judge a book by its cover"
+    }
+	
+]

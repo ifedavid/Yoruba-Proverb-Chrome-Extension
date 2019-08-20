@@ -3,25 +3,29 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Yoruba Proverbs</title>
+    <title>New Tab | Random Yoruba Proverbs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="tabPage.js"></script>
-    <script src="data.json" type="text/javascript"></script>
+   
 </head>
 
 
 <body class="text-center" style="padding-top:5em; background-color:aqua;">
+    <div class="container">
     <div>
-    <p class="proverb"> Ile oba t'o jo, ewa lo busi</h1>
+    <p class="proverb" id="proverb"></h1>
 </div>
 <div style="padding-top:2em;"> 
-    <p class="translation">Translation: When a king's palace burns down, the re-built palace is more beautiful.</p>
+    <p class="translation" id="translation"></p>
 </div>
 
 <div style="padding-top:2em;">
-    <p class="Meaning" >Meaning: Necessity is mother of invention, creativity is often achieved after overcoming many difficulties..</p>
+    <p class="Meaning"  id="meaning"></p>
+</div>
 </div>
 </body>
+
+<script src="data.json" type="text/javascript"></script>
+<script src="tabPage.js"></script>
 </html>
