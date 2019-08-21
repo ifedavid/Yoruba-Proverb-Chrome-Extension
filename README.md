@@ -7,3 +7,4 @@ Replace new chrome tab with a random yoruba proverb with it's interpretation and
 
 # To Do
 Add pronounciation so users can hear the proverbs.
+Add more images so it improves the user experience.
