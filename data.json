@@ -1,68 +1,78 @@
 data = [
 	{
 		
-		"proverb": "Ile oba t'o jo, ewa lo busi",
+		"proverb": "Ilé ọba t'ó jó, ẹwà ló bùsi", 
 		"translation": "When a king's palace burns down, the re-built palace is more beautiful",
 		"meaning": "Necessity is mother of invention, creativity is often achieved after overcoming many difficulties"
 	},
 	{
 		
-		"proverb": "Gbogbo alangba lo d'anu dele, a ko mo eyi t'inu nrun",
+		"proverb": "Gbogbo aláǹgbá ló da'nú délẹ̀, a kò mọ èyí t'ínú ń run",
 		"translation": "All lizards lie flat on their stomach and it is difficult to determine which has a stomach ache",
 		"meaning": "Everyone looks the same on the outside but everyone has problems that are invisible to outsiders"
 	},
 	{
-		"proverb": "Ile la ti n ko eso re ode",
+		
+		"proverb": " Ilé la ti ń kó ẹ̀ṣọ́ re òde",
 		"translation": "Charity begins at Home",
 		"meaning": "A man cannot give what he does not have good or bad behavior is a reflection of one’s background"
 	},
 	{
-		"proverb": "A pę ko to jęun, ki ję ibaję",
-		"translation": "The person that eats late, will not eat spoiled food",
+		
+		"proverb": "A pẹ́ kó tó jẹun kìí jẹ ìbàjẹ́",
+		"translation": "The person that eats late, will not eat spoiled food  r Patient dog eats the fatest bone",
 		"meaning": "It is more profitable to exercise patience while seeking a durable solution, in difficult situations than to hastily accept an ill-conceived/prepared solution"
 	},
 	{
-		"proverb": "Eewu bę loko Longę, Longę fun ara rę eewu ni",
+		
+		"proverb": "Kòsí ewu l'ọ́ko Lóńgẹ́, Lóńgẹ́ fún ra rẹ̀, ewu ni",
 		"translation": " If there is danger at Longę's farm (Longę is a name of a Yoruba Legend), then Longę himself is danger",
 		"meaning": "You should be extremely careful of situations that have a past history of danger"
 	},
 	{
-		"proverb": "Bi Ēēgun nla ba ni ohùn o ri gontò, gontò na a ni ohùn o ri Ēēgun nla",
+		
+		"proverb": "Bí eégún ńlá bá ní òhun o ri gontọ̀, gontọ̀ náà á ní òhun o rí eégún ńlá",
 		"translation": "If a big masquerade claims it doesn't see the smaller masquerade, the small masquerade will also claim it doesn't see the big masquerade",
 		"meaning": "If an important man does not respect those less important than himself, less important men will in turn refuse to give him his due"
 	},
 	{
-		"proverb": "Kò sí ęni tí ó ma gùn ęşin tí kò ní ju ìpàkó. Bí kò fę ju ìpàkó, ęşin tí ó ngùn á ję kojū",
+		
+		"proverb": "Kòsí ẹni tí ó ma gun ẹṣin tí kò ní ju ìpàkọ́. Bí kò fẹ́ ju ìpàkọ́, ẹṣin tí ó ń gún á jẹ́ k'ójù",
 		"translation": " No one rides a horse without moving his head, voluntarily or involuntarily",
 		"meaning": "Your status in life dictates your attitude towards your peers"
 	},
 	{
-		"proverb": "Bí abá so òkò sójà ará ilé eni ní bá",
+		
+		"proverb": "Bí a bá sọ òkò s'ọ́jà, ará ilé ẹni níí bá",
 		"translation": "He who throws a stone in the market will hit his relative",
 		"meaning": "Be careful what you do unto others it may return towards you or someone close to you"
 	},
 	{
-		"proverb": "Agba ki wa loja, ki ori omo titun o wo",
-		"translation": "Do not go crazy, do not let the new baby look",
+		
+		"proverb": "Àgbà kìí wà l'ọ́jà, kí orí ọmọ tuntun wọ́",
+		"translation": "Do not go crazy, do not let the new baby look, it is the obligation of the elderly to maintain sanity and teach appropriateness",
 		"meaning": "Behave in a mature manner so as to a avoid bad reputation"
 	},
 	{
-		"proverb": "Adìẹ funfun kò mọ ara rẹ̀lágbà",
+		
+		"proverb": "Adìyẹ funfun kò mọ ara rẹ̀ lágbà",
 		"translation": "The white chicken does not realize its age",
 		"meaning": "Learn to act your age and Respect yourself"
 	},
 	{
+		
 		"proverb": "Ọbẹ̀ kìí gbé inú àgbà mì",
 		"translation": "The soup does not move round in an elder’s belly",
 		"meaning": "You should understand how to and the importance of keep secrets"
 	},
 	{
+		
 		"proverb": "À ń pe gbẹ́nàgbẹ́nà ẹyẹ àkókó ń yọjú",
 		"translation": "A sculptor is summoned and the woodpecker shows up",
 		"meaning": "Never think too highly of yourself"
 	},
 	{
-		"proverb": "Díẹ̀ díẹ̀ nimú ẹlẹ́dẹ̀ẹ́ fi ń wọgbà",
+		"proverb": "Díẹ̀díẹ̀ n'imú ẹlẹ́dẹ̀ fi ń  wọ ọgbà",
 		"translation": "Little by little is how the pig’s nose enters the yard",
 		"meaning": "Attend to a small problem before it becomes uncontrollable"
 	},
@@ -72,17 +82,17 @@ data = [
 		"meaning": "Every cloud has a silver lining"
 	},
 	{
-		"proverb": "A ti kekee e ti p’eitan u’oko i, do ba d’agba tan e i du ka ma",
+		"proverb": "Àti kékeré la ti ń p'ẹ̀ka ìrókò, tó bá d'àgbà tàn, a máa gba ẹbọ lọ́wọ́ ẹni",
 		"translation": "Trim the branches of an iroko tree while it is young, if it matures completely it cannot be bent again",
 		"meaning": " Training of a child commences when the child is still very young and impressionable; otherwise his training becomes late and an uphill task"
 	},
 	{
-		"proverb": "Uun yi wo ba a gbe oun wa ka i, we le gbe ila du o ka koko",
+		"proverb": "Ohun tí ìwọ bá gbìn, òhun ni wà á ká. Ìwọ kò le gbìn ilá, kí o ká kòkó",
 		"translation": "What you plant, is what you will pluck, you cannot plant okro and you pluck cocoa",
 		"meaning": " Whatever you sow, that you will reap"
 	},
 	{
-		"proverb": "Ohun pele, o yo obi n’ apo; ohun lile yo uda n’ako",
+		"proverb": "Ohùn pèlé ní n yọ obì lápò. Ohùn líle ní n yọ idà l'ápó",
 		"translation": "A gentle voice brings kola from the pocket while a harsh voice brings out a sword from its sheath",
 		"meaning": "The tongue is a two-edged sword"
 	},
@@ -97,17 +107,17 @@ data = [
 		"meaning": "Emphasizes the importance of closeness of individuals to one another even when conflict exists between them"
 	},
 	{
-		"proverb": "Omi yi iay’a a mon e e san gb’onen e",
+		"proverb": "Omi tí ènìyàn ma mu, kòní sàn kọjá rẹ",
 		"translation": "The water one is destined to drink never flows past him or her",
 		"meaning": "God’s timing is always perfect"
 	},
 	{
-		"proverb": "Esin e e da onen da ma ton gun",
+		"proverb": "Bí ẹsìn bá dá ní, à á tun gun ni",
 		"translation": "The fact that the horse throws down the rider does not stop the rider from getting up and climbing it again",
 		"meaning": "Never give up"
 	},
 	{
-		"proverb": "Di l’ejo ba a ma ejo n’ebi e ni i pe n’oiho ukonle",
+		"proverb": "Bí ẹlẹ́jọ́ bá ti mọ ẹ̀bi rẹ̀ l'ẹ́bi, kìí pẹ́ lórí ìkúnlẹ̀",
 		"translation": "If one acknowledges one’s guilt in court one will not remain on his knees for long",
 		"meaning": "If you own up to your guilt, you have tried to put things right and so may be pardoned or judged with leniency"
 	},
@@ -117,7 +127,7 @@ data = [
 		"meaning": "Someone in an influential position should use his position for the benefit of his relation and community"
 	},
 	{
-		"proverb": "E e m’oiho Ade gwole",
+		"proverb": " A ò kín fi orí adé wọ́lẹ̀",
 		"translation": "We not allow a head wearing a crown to drag on the ground",
 		"meaning": "This means that nobody disrespects a crowned individual"
 	},
@@ -127,7 +137,7 @@ data = [
 		"meaning": "Cut your coat according to your size"
 	},
 	{
-		"proverb": "Ko omo e do le mu usimi ko e",
+		"proverb": "Kọ́ ọmọ rẹ kó lè fún ẹ ní ìsinmi",
 		"translation": "Teach your child to give you rest",
 		"meaning": "Train your child so that he can give you peace of mind"
 	},
@@ -142,7 +152,7 @@ data = [
 		"meaning": " It is one’s responsibility to take care of whatever he is entrusted with"
 	},
 	{
-		"proverb": "Igbe ‘a ga o we s’ugwaju ipa’uun",
+		"proverb": "Ìgbéraga níí síwájú ìparun",
 		"translation": "It is lifting oneself up that goes before destruction",
 		"meaning": "Pride goes before a fall"
 	},
@@ -152,17 +162,17 @@ data = [
 		"meaning": "He who perseveres to the end will be rewarded"
 	},
 	{
-		"proverb": "Li suu e fon wa’a keneun i",
+		"proverb": "Onísùúrù ló lè fún wàra kìnìún",
 		"translation": "Only the patient one can milk a lion",
 		"meaning": "Patience is key, He who is patient can perform an impossible task"
 	},
 	{
-		"proverb": "Oj’ ole igbad’e gbo i",
+		"proverb": "Ojú ọ̀lẹ ni ìgbàdo ti ń gbó",
 		"translation": "Corn matures in the presence of a lazy man",
 		"meaning": "If a man does not work, he must not eat"
 	},
 	{
-		"proverb": "Aja e e gbagbe l’oiye owuo",
+		"proverb": "Ajá kìí gbàgbe ilé olówó o rẹ̀",
 		"translation": "A dog does not forget its morning benefactor",
 		"meaning": "It is good to show appreciation for any good deed done to one"
 	},
@@ -177,12 +187,12 @@ data = [
 		"meaning": "Anyone who gives will receive"
 	},
 	{
-		"proverb": "Igi so so o y’a a ghonen ‘ju, a to ke iye e ti ho i",
+		"proverb": "Igi gogoro má gùn mi lójú, àtòkèrè lati ń wòó",
 		"translation": "The pointed stick that will pierce one in the eye, is avoided while it is still far off",
 		"meaning": "To be forewarned, is to be forearmed"
 	},
 	{
-		"proverb": "Uun yi agbalagba ri n’oiho joko, omoiton le ri un n’oiho uduo",
+		"proverb": "Ohun tí àgbà rí lórí ìjóòkó, ọmọdé kò le ri lórí ìdúró",
 		"translation": "What an elder sees while sitting down, a child can never see it while standing up",
 		"meaning": "Experience is the best teacher"
 	},
@@ -207,12 +217,12 @@ data = [
 		"meaning": "There is joy in cooperative effort"
 	},
 	{
-		"proverb": "Iy’o wu mi e wue, oun e m’omaiye meji jeun ototo i",
+		"proverb": "Èyí wù mí kò wù ó, ló mú ọmọ ìyá méjì jẹun lọ́tọ̀ọ̀tọ̀",
 		"translation": "Differences in likes and dislikes make two brothers eat separately",
 		"meaning": "Every human being has special characteristics that make him unique"
 	},
 	{
-		"proverb": "Oju ya a b’onen t’ale e e m’owuo kutu s’ipen",
+		"proverb": "Ojú tó bá ma báni dalé, kìí ti òwúrọ̀ ṣe ipin",
 		"translation": "The eye that will be useful to its owner does not start discharging in the morning",
 		"meaning": "The success of a venture requires early planning and preparedness"
 	},
@@ -249,6 +259,7 @@ data = [
 		"proverb": "Inon ukoko didun oun eko fifun ti jade i",
 		"translation": "White corn paste comes out of the black pot",
 		"meaning": "Do not judge a book by its cover"
-    }
+		}
+		
 	
 ]
